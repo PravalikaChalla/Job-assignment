@@ -1,0 +1,15 @@
+Output Format:
+Input : 1
+
+Number of jobs left: 0
+Total earnings of other employees: 900
+
+Input : 2
+
+Number of jobs left: 0
+Total earnings of other employees: 950
+
+Input : 3
+
+Number of jobs left: 0
+Total earnings of other employees: 300
